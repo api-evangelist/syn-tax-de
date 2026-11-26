@@ -1,4 +1,4 @@
-# Syntax
+# syn.tax
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Syntax (syn.tax) provides a German‑language AI assistant interface (MCP) that connects to DATEV data. It offers time‑tracking, deadline management, and official document verification for tax offices, hosted in Germany with EU‑compliant processing. The service integrates with Claude, ChatGPT, Langdock and custom solutions, delivering secure, on‑premise data handling without training on user inputs.
+syn.tax is a German-based AI assistant platform for tax offices, integrating with DATEV and offering features such as automated deadline tracking, document management, and AI-driven client communication. The service provides customizable tariffs, integrates with popular tools like Microsoft 365, n8n, and various AI models, and hosts data within Germany to meet compliance requirements.
 
-**Areas:** AI · Tax · Germany · MCP · DATEV
+**Areas:** Tax · AI · Automation · German · SaaS
 
-## Syntax on APIs.io
+## syn.tax on APIs.io
 
-Everything profiled for Syntax is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/syn-tax-de/](https://apis.io/providers/syn-tax-de/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [Syntax API](https://apis.io/apis/syn-tax-de/syntax-api/) — API for Syntax platform connecting to DATEV data.
+Everything profiled for syn.tax is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/syn-tax-de/](https://apis.io/providers/syn-tax-de/)** — or go straight to one of the APIs or properties below.
 
 ### Published properties
 
@@ -84,30 +80,32 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Syntax Domain Security](https://apis.io/security/syn-tax-de/syn-tax-de-domain-security/)
+- [syn.tax Domain Security](https://apis.io/security/syn-tax-de/syn-tax-de-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://syn-tax.de/)
+- [Documentation](https://syn-tax.de/entwickler)
+- [API reference](https://syn-tax.de/entwickler)
 - [Blog](https://syn-tax.de/blog/ki-in-datevasp-anbinden)
 - [Privacy policy](https://syn-tax.de/datenschutz)
 
 ## API Evangelist rating
 
-**Kin Score 9.9** — minimal · rubric 0.29.0 · scored 2026-11-26
+**Kin Score 14.4** — emerging · rubric 0.27.0 · scored 2026-11-26
 
 | Facet | Score |
 |---|---|
-| Discoverability | 73.2 |
+| Discoverability | 48.2 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 2.4 |
-| Access clarity | 19.1 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 23.7 |
 
-**Agent readiness 3.0** — human-only
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -133,11 +131,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | na |
 
-**Regulatory alignment 3.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/syn-tax-de/](https://apis.io/providers/syn-tax-de/).
 
@@ -145,7 +140,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Syntax: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for syn.tax: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
